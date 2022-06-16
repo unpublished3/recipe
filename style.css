@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+.thumbnail {
+  height: 200px;
+  margin: auto;
+}
+
+.box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2 1fr);
+  justify-content: center;
+}
+
+.recipe {
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+}
+
+.image-links {
+  margin: auto;
+}
