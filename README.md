@@ -14,6 +14,6 @@ This is a simple website constisting of recipes of three different foods initial
 
 ## Screenshots with CSS
 
-![home page](./.screenshots/home-css.png?raw=true)
+![home page with css](./.screenshots/home-css.png?raw=true)
 
-![chicken katsu page](./.screenshots/katsu-css.png?raw=true)
+![chicken katsu page with css](./.screenshots/katsu-css.png?raw=true)
