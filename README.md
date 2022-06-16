@@ -8,6 +8,6 @@ This is a simple website constisting of recipes of three different foods. It was
 
 ## Screenshots
 
-[home page](/../../../../Downloads/Screenshot%202022-06-16%20at%2011-31-53%20Recipes.png)
+[home page](./.screenshots/home.png)
 
-[chicken katsu page](./../../../../Downloads/Screenshot%202022-06-16%20at%2011-32-52%20Chicken%20Katsu.png)
+[chicken katsu page](./.screenshots/katsu.png)
